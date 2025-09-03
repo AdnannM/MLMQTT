@@ -40,5 +40,9 @@ Data is received from a backend Python Machine Learning project using the **Mess
 
 Includes various chart types implemented with SwiftUI to provide comprehensive data visualization.
 
+## Visuals
+
+Adnan Muratovic
+
 
 
